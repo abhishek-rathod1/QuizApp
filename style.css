@@ -143,3 +143,16 @@ button.submit-answer {
 button.submit-answer:hover {
   background-color: #218838;
 }
+
+
+#home-button{
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+
+}
